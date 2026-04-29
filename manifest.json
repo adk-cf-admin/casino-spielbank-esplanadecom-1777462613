@@ -1,0 +1,19 @@
+{
+  "name": "Casino Esplanade",
+  "short_name": "Casino Esplanade",
+  "theme_color": "",
+  "background_color": "#cecece",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777454939-cropped-spielbank-hamburg-icon-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

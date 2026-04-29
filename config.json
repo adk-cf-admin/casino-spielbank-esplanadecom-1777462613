@@ -1,0 +1,212 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#cecece",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#e4e4e4",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#F2F2F2",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#C60C30",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#C60C30",
+            "yellow": "#ffffff",
+            "yellow-button": "#C60C30",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#e4e4e4",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#a0a0a0",
+            "faq-label": "#a0a0a0",
+            "bg-footer": "#a8a8a8",
+            "copyright": "#e7e7d5",
+            "starColor": "#C60C30",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7080"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7081",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Esplanade Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7082",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Esplanade"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Esplanade",
+                    "title": "Casino Esplanade Hamburg — Spielbank im Herzen der City",
+                    "description": "Erleben Sie das Casino Esplanade Hamburg am Stephansplatz: Roulette, Blackjack, Automaten & Poker. Staatlich lizenzierte Spielbank. Jetzt besuchen!",
+                    "canonical": "casino-spielbank-esplanade.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7083",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-spielbank-esplanade.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7084"
+                },
+                "hero": {
+                    "title": "Ihre Spielbank im Herzen von Hamburg",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7085",
+                    "imageSizeModifier": 6,
+                    "imageYModifier": -7,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7086",
+                    "mobileImageSizeModifier": 6,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Get",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "Suchen Sie erstklassiges Glücksspiel in Hamburg? Wir sind die staatlich konzessionierte Spielbank im Zentrum der Hansestadt – mit klassischen Tischspielen, modernen Automaten und einem professionellen Pokerfloor. Entdecken Sie, was uns zur ersten Adresse in Hamburg macht:",
+                    "items": [
+                        "Staatlich konzessionierte Spielbank Hamburg seit Jahrzehnten",
+                        "Klassisches Spiel: Roulette & Blackjack täglich ab 17 Uhr",
+                        "Modernes Automatenspiel täglich 12–04 Uhr mit Jackpots bis 23.649 €",
+                        "Professioneller Pokerfloor: Texas Hold'em & Omaha No Limit",
+                        "Zentrale Lage: U1 Stephansplatz & S-Bahn Dammtor, Parkhaus vor Ort",
+                        "Eintritt ab 2 € – Mindestalter 18 Jahre, Ausweis erforderlich"
+                    ],
+                    "advantagesAfterText": "Besuchen Sie uns an 360 Tagen im Jahr und erleben Sie echtes Hamburger Casinofeeling. Unser Team am Stephansplatz empfängt Sie täglich mit professionellem Service und erstklassiger Spielatmosphäre.",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Casino Esplanade App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7087",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Esplanade App",
+                    "mobileGooglePlayImageTitle": "Casino Esplanade App",
+                    "mobileIosImageTitle": "Casino Esplanade App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Casino Esplanade Hamburg",
+                        "description1": "Wir sind Hamburgs renommierteste staatlich konzessionierte Spielbank – zentral gelegen am Stephansplatz 10 im Herzen der Hansestadt. Unser Haus vereint klassisches Casinoambiente mit modernem Spielangebot.",
+                        "items": [
+                            "Staatliche Konzession als lizenzierte Hamburger Spielbank",
+                            "Erweiterung des Pokerfloors mit Texas Hold'em & Omaha",
+                            "Modernes Automatenspiel mit progressiven Jackpot-Systemen",
+                            "Einführung der exklusiven REDBLACK Lounge im ersten OG"
+                        ],
+                        "description2": "Wir betreiben unser Casino unter staatlicher Hamburger Lizenz mit höchsten Sicherheitsstandards. Jeder Besucher wird an der Rezeption registriert – Personalausweis oder Reisepass sind Pflicht für einen seriösen und sicheren Spielbetrieb.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7088",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Wir entwickeln unser Spielangebot kontinuierlich weiter und stehen für verantwortungsvolles Spielen in Hamburg. Besuchen Sie uns am Stephansplatz und überzeugen Sie sich selbst von unserem einzigartigen Casinoflair!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Spielangebot im Casino Esplanade Hamburg",
+                        "description": "<h2>Unser vollständiges Spielangebot im Casino Esplanade Hamburg<\/h2>\n\n<p>Im Casino Esplanade Hamburg am Stephansplatz erwartet Sie ein umfassendes Glücksspielangebot auf höchstem Niveau. Als staatlich konzessionierte Spielbank in Hamburg bieten wir Ihnen klassische Tischspiele, ein modernes Automatenspiel mit progressiven Jackpots sowie einen professionellen Pokerfloor – alles unter einem Dach im Herzen der Hansestadt. Unser Spielbetrieb ist an 360 Tagen im Jahr geöffnet und untersteht der strengen Aufsicht der Hamburgischen Glücksspielbehörde, sodass Sie in einer sicheren und zertifizierten Spielumgebung genießen können. Ob erfahrener Routinier oder neugieriger Erstbesucher – wir begrüßen Sie täglich in unserem Haus am Stephansplatz.<\/p>\n\n<h3>Klassisches Spiel – Roulette, Blackjack & mehr<\/h3>\n\n<p>Unser klassischer Spielsaal im ersten Obergeschoss öffnet täglich ab 17:00 Uhr und lädt Sie ein, an eleganten Tischen die zeitlosen Casinospiele zu erleben. Von Sonntag bis Donnerstag spielen Sie bis 02:00 Uhr, an Freitagen und Samstagen sogar bis 03:00 Uhr – so bleibt genug Zeit für intensive Spielrunden. Roulette gehört zu den absoluten Highlights unseres Hauses: Die Kugel dreht sich an mehreren Tischen gleichzeitig, und dank unserer Permanenzen-Anzeige behalten Sie stets den Überblick über aktuelle Zahlen. Blackjack sowie weitere klassische Tischspiele runden das Angebot ab und sorgen für echtes Casinofeeling mitten in Hamburg. Die Ausgabe von Jetons erfolgt ausschließlich gegen Bargeld – Geldautomaten stehen im gesamten Haus zur Verfügung.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette:<\/strong> Mehrere Tische mit Permanenzen-Anzeige für optimalen Überblick; klassisches europäisches Roulette mit einer Null für die günstigsten Quoten für Hamburger Spieler.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack:<\/strong> Professionelle Tische mit erfahrenen Dealern; optimale Strategie möglich dank ruhiger Atmosphäre in unserer lizenzierten Hamburger Spielbank.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>REDBLACK Lounge:<\/strong> Unsere exklusive Lounge im ersten Obergeschoss bietet ein gehobenes Ambiente für anspruchsvolle Gäste, die das Casinospiel in Hamburg besonders stilbewusst genießen möchten.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jeton-Service:<\/strong> Bargeldauszahlung direkt am Tisch; Geldautomaten im gesamten Haus verfügbar – praktisch und sicher für jeden Besuch am Stephansplatz.<\/li>\n<\/ul>\n\n<h3>Automatenspiel – Täglich ab 12 Uhr mit progressiven Jackpots<\/h3>\n\n<p>Unser Automatenspielbereich im Erdgeschoss des Casino Esplanade Hamburg öffnet täglich bereits ab 12:00 Uhr und schließt erst um 04:00 Uhr – ideal für Hamburger Gäste, die flexibel spielen möchten. Hier finden Sie eine vielseitige Auswahl an modernen Spielautomaten, darunter mehrere progressive Jackpot-Systeme mit aktuell attraktiven Gewinnpools. Alle Automaten unterliegen der staatlichen Zulassung und werden regelmäßig geprüft, sodass Sie sich auf faire Auszahlungsquoten und geprüfte Zufallsgeneratoren verlassen können. Im Automatenbereich gilt kein Dresscode – Sie können entspannt in Freizeitkleidung vorbeikommen und Ihr Glück versuchen.<\/p>\n\n<h3>Welche Jackpots sind aktuell im Casino Esplanade verfügbar?<\/h3>\n\n<p>Wir bieten mehrere progressive Jackpot-Netzwerke, deren Stände täglich aktualisiert werden. Zu unseren beliebtesten Jackpot-Systemen zählen Clover Link Xtreme, Cash Connection, Xtension Link, Bell Link, Super Link und Black Impera Link – allesamt von renommierten Automatenherstellern.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ce173a;\">\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Jackpot<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Stand<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Geräte<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Clover Link Xtreme<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">23.649 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">4<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Cash Connection V.4<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">16.995 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">8<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Xtension Link<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">15.784 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">6<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Bell Link<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">15.460 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">4<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Cash Connection V.2<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">15.351 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">4<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Super Link<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">11.718 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">4<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Black Impera Link<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">10.470 €<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">4<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Pokerfloor – Texas Hold'em & Omaha im Casino Esplanade Hamburg<\/h3>\n\n<p>Unser Pokerfloor im Casino Esplanade Hamburg gehört zu den aktivsten der norddeutschen Region und bietet Ihnen täglich die Möglichkeit, an Cashgame-Tischen gegen echte Gegner anzutreten. Von Donnerstag bis Dienstag starten ab 18:45 Uhr Texas Hold'em No Limit und Omaha No Limit Cashgames mit Blinds von 5\/5 oder 5\/10 und Table-Stakes von 200 € bis 500 €. Mittwochs erwartet Sie unser beliebter Omaha Mittwoch als Pot-Limit-Variante – ebenfalls mit Beginn um 18:45 Uhr. Sie können Ihren Platz am Tisch bequem vorab online reservieren, was besonders an stark frequentierten Wochenenden in Hamburg empfehlenswert ist. Professionelle Dealers, faire Spielregeln und die staatliche Konzession der Hamburgischen Spielbank garantieren Ihnen ein sicheres Pokerumfeld.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Texas Hold'em No Limit (Do–Di):<\/strong> Blinds 5\/5 oder 5\/10, Table-Stake 200 €–500 €, Beginn 18:45 Uhr – das beliebteste Pokerspiel Hamburgs in staatlich lizenzierter Umgebung.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Omaha No Limit (Do–Di):<\/strong> Spannende Variante mit vier Startkarten; Blinds 5\/5 oder 5\/10, Table-Stake 200 €–500 €, ideal für erfahrene Pokerspieler in Hamburg.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Omaha Mittwoch (Pot Limit):<\/strong> Wöchentliches Special jeden Mittwoch ab 18:45 Uhr; Blinds 5\/5 oder 5\/10, Table-Stake 200 €–500 €.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tischreservierung:<\/strong> Online-Anmeldung für Ihren Platz am Pokertisch möglich – besonders empfehlenswert an Wochenenden im Casino Esplanade Hamburg.<\/li>\n<\/ul>\n\n<h3>Verantwortungsvolles Spielen im Casino Esplanade<\/h3>\n\n<p>Als staatlich konzessionierte Spielbank in Hamburg legen wir größten Wert auf verantwortungsvolles Spielen. Der Zutritt ist ausschließlich Personen ab 18 Jahren mit gültigem Personalausweis oder Reisepass gestattet – ein Führerschein wird nicht akzeptiert. Beim Betreten registrieren wir jeden Gast an unserer Rezeption, was nicht nur der Sicherheit dient, sondern auch unsere gesetzliche Pflicht als lizenzierte Hamburger Spielbank ist. Wir kooperieren mit den Hamburgischen Behörden zur Spielsuchtprävention und bieten unseren Gästen Informationen zu Selbstsperrmöglichkeiten und Beratungsangeboten. Spielen macht Spaß – aber wir sorgen dafür, dass es in unserem Haus am Stephansplatz verantwortungsvoll und sicher geschieht.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Besuch planen – Casino Esplanade Hamburg",
+                        "description": "<h2>Ihren Besuch im Casino Esplanade Hamburg optimal planen<\/h2>\n\n<p>Ein Abend im Casino Esplanade Hamburg am Stephansplatz ist ein besonderes Erlebnis – und mit der richtigen Vorbereitung wird er unvergesslich. Als staatlich konzessionierte Spielbank in Hamburg haben wir klare Regeln zu Eintritt, Kleiderordnung, Anreise und Zahlungsmöglichkeiten, die wir Ihnen hier transparent vorstellen. Wir sind an 360 Tagen im Jahr für Sie geöffnet, sodass Sie nahezu jeden Tag in unsere Welt des Glücksspiels eintauchen können. Egal ob Sie mit öffentlichen Verkehrsmitteln, dem eigenen Auto oder zu Fuß durch Hamburgs Innenstadt zu uns kommen – der Weg ins Casino Esplanade ist denkbar einfach.<\/p>\n\n<h3>Öffnungszeiten des Casino Esplanade Hamburg<\/h3>\n\n<p>Unsere Türen stehen Ihnen an 360 Tagen im Jahr offen – lediglich an wenigen gesetzlichen Feiertagen wie Karfreitag, Volkstrauertag, Totensonntag sowie am 24. und 25. Dezember bleiben wir geschlossen. Das Automatenspiel im Erdgeschoss ist täglich von 12:00 bis 04:00 Uhr zugänglich und bietet Ihnen damit maximale Flexibilität in Hamburg. Das klassische Spiel im ersten Obergeschoss – mit Roulette, Blackjack und unserer REDBLACK Lounge – öffnet täglich ab 17:00 Uhr. Von Sonntag bis Donnerstag spielen Sie bis 02:00 Uhr, an Freitage und Samstage verlängern wir bis 03:00 Uhr. Planen Sie Ihren Hamburg-Abend entsprechend und genießen Sie ausreichend Zeit für intensive Spielrunden.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ce173a;\">\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Bereich<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Öffnung<\/th>\n      <th style=\"border: 1px solid #2a2a2a; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Schluss<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Automatenspiel<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">12:00 Uhr<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">04:00 Uhr<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Klass. Spiel (So–Do)<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">17:00 Uhr<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">02:00 Uhr<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Klass. Spiel (Fr–Sa)<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">17:00 Uhr<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">03:00 Uhr<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161616;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Poker (Do–Di)<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">18:45 Uhr<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">spät<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\"><strong>Omaha Mittwoch<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">18:45 Uhr<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 8px; color: #ffffff;\">spät<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Anfahrt & Parken – So erreichen Sie uns in Hamburg<\/h3>\n\n<p>Das Casino Esplanade Hamburg liegt zentral am Stephansplatz 10, 20354 Hamburg – mitten im Herzen der Hansestadt und hervorragend mit öffentlichen Verkehrsmitteln erreichbar. Mit der U-Bahn Linie U1 steigen Sie direkt an der Haltestelle „Stephansplatz\" aus und sind in wenigen Schritten bei uns. Alternativ bringt Sie die S-Bahn zur Haltestelle „Dammtor\", von der Sie ebenfalls bequem zu Fuß das Casino Esplanade erreichen. Wer mit dem Auto nach Hamburg anreist, findet in unserem hauseigenen Parkhaus eine begrenzte Anzahl an Stellplätzen – als Gast zahlen Sie maximal 6 € für die gesamte Dauer Ihres Besuchs. Das Parkhaus ist von 12:00 bis 04:00 Uhr geöffnet, also parallel zu unserem gesamten Spielbetrieb.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>U-Bahn U1 „Stephansplatz\":<\/strong> Direkteste Anbindung ins Casino Esplanade Hamburg – wenige Gehminuten vom Ausgang bis zu unserem Eingang am Stephansplatz 10.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>S-Bahn „Dammtor\":<\/strong> Bequeme Alternative für Hamburger aus den westlichen Stadtteilen; kurzer Fußweg durch die Hamburger Innenstadt.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Eigenes Parkhaus:<\/strong> Geöffnet 12:00–04:00 Uhr, maximale Parkgebühr 6 € für Casino-Gäste – bitte beachten, dass das Haus an beliebten Tagen schnell voll sein kann.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Adresse:<\/strong> Casino Esplanade, Stephansplatz 10, 20354 Hamburg – Telefon 040 3347330, E-Mail info@spielbank-hamburg.de.<\/li>\n<\/ul>\n\n<h3>Kleiderordnung im Casino Esplanade Hamburg<\/h3>\n\n<p>Wir legen Wert auf ein gepflegtes Erscheinungsbild, ohne unsere Gäste dabei einzuschränken. Im klassischen Spielsaal gilt eine moderate Kleiderordnung: Gepflegte Freizeitkleidung ist grundsätzlich willkommen – ein Hemd kombiniert mit dunkler Jeans oder einer Chinohose ist für Herren ideal. Ein Sakko ist gern gesehen, aber keine Pflicht; Abendgarderobe ist selbstverständlich ebenfalls herzlich willkommen und verleiht dem Casinoabend in Hamburg das gewisse Flair. Nicht gestattet sind T-Shirts ohne Sakko, kurze Hosen, Joggingbekleidung sowie Sport-, Strand- oder Arbeitskleidung. Im Automatenspielbereich im Erdgeschoss schreiben wir hingegen keinen Dresscode vor – dort können Sie völlig entspannt in Alltagskleidung vorbeikommen.<\/p>\n\n<h3>Eintritt & Ausweispflicht – Was Sie wissen müssen<\/h3>\n\n<p>Der reguläre Eintrittspreis ins Casino Esplanade Hamburg beträgt 2 €. Das Mindestalter für den Zutritt liegt bei 18 Jahren – ohne Ausnahme. Als staatlich konzessionierte Spielbank in Hamburg sind wir gesetzlich verpflichtet, die Identität jedes Gastes zu überprüfen: Ein gültiger Personalausweis oder Reisepass ist zwingend erforderlich. Bitte beachten Sie, dass ein Führerschein als Ausweisdokument nicht anerkannt wird. Nach der Registrierung an unserer Rezeption erhalten Sie Ihre persönliche Eintrittskarte, die Ihnen Zugang zu allen Spielbereichen gewährt. Das Automatenspiel befindet sich im Erdgeschoss, das klassische Spiel sowie die exklusive REDBLACK Lounge im ersten Obergeschoss.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Eintrittspreis:<\/strong> 2 € regulär – günstigster Zugang zu einer staatlich lizenzierten Spielbank in Hamburg.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mindestalter:<\/strong> 18 Jahre – strikt eingehalten gemäß Hamburgischem Spielbankengesetz.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ausweisdokument:<\/strong> Personalausweis oder Reisepass erforderlich; Führerschein wird nicht akzeptiert.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Registrierung:<\/strong> An unserer Rezeption werden Sie als Gast erfasst und erhalten Ihre Eintrittskarte für alle Spielbereiche im Casino Esplanade Hamburg.<\/li>\n<\/ul>\n\n<h3>Zahlung im Casino Esplanade Hamburg<\/h3>\n\n<p>An unseren Bars und in der Gastronomie können Sie bequem sowohl mit Karte als auch mit Bargeld bezahlen. Die Ausgabe von Jetons für das klassische Spiel und den Pokerfloor erfolgt ausschließlich gegen Bargeld – wir empfehlen Ihnen daher, ausreichend Bargeld mitzubringen. Für Ihre Bequemlichkeit stehen im gesamten Haus Geldautomaten zur Verfügung, sodass Sie stets liquide sind. Diese transparente Zahlungsregelung ist Teil unserer Verpflichtung als staatlich lizenzierte Spielbank in Hamburg, einen sicheren und nachvollziehbaren Spielbetrieb zu gewährleisten.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie viel kostet der Eintritt ins Casino Esplanade Hamburg?",
+                            "answer": "Der Eintritt ins Casino Esplanade Hamburg kostet regulär 2 €. Das Mindestalter beträgt 18 Jahre, und ein gültiger Personalausweis oder Reisepass ist zwingend erforderlich. Ein Führerschein wird als Ausweisdokument nicht anerkannt. Nach der Registrierung an der Rezeption erhalten Sie Ihre Eintrittskarte für alle Spielbereiche."
+                        },
+                        {
+                            "title": "Wann hat das Casino Esplanade Hamburg geöffnet?",
+                            "answer": "Das Automatenspiel ist täglich von 12:00 bis 04:00 Uhr geöffnet. Das klassische Spiel startet täglich um 17:00 Uhr – von Sonntag bis Donnerstag bis 02:00 Uhr, freitags und samstags bis 03:00 Uhr. Wir sind an 360 Tagen im Jahr für Sie da, außer an Karfreitag, Volkstrauertag, Totensonntag sowie am 24. und 25. Dezember."
+                        },
+                        {
+                            "title": "Wie komme ich am besten zum Casino Esplanade Hamburg?",
+                            "answer": "Das Casino Esplanade befindet sich am Stephansplatz 10, 20354 Hamburg. Am bequemsten erreichen Sie uns mit der U1 (Haltestelle „Stephansplatz\") oder der S-Bahn (Haltestelle „Dammtor\"). Wer mit dem Auto kommt, nutzt unser hauseigenes Parkhaus – Gäste zahlen maximal 6 €, geöffnet von 12:00 bis 04:00 Uhr."
+                        },
+                        {
+                            "title": "Gibt es eine Kleiderordnung im Casino Esplanade?",
+                            "answer": "Im klassischen Spielsaal ist gepflegte Freizeitkleidung angemessen – ein Hemd mit dunkler Jeans oder Chino ist für Herren ideal, ein Sakko gern gesehen, aber nicht Pflicht. Nicht erlaubt sind T-Shirts ohne Sakko, kurze Hosen oder Sportbekleidung. Im Automatenspielbereich gibt es keinen Dresscode."
+                        },
+                        {
+                            "title": "Welche Pokerspiele werden im Casino Esplanade angeboten?",
+                            "answer": "Unser Pokerfloor bietet Texas Hold'em No Limit und Omaha No Limit als Cashgames (Do–Di ab 18:45 Uhr) sowie den Omaha Mittwoch als Pot-Limit-Variante. Blinds sind 5\/5 oder 5\/10, Table-Stakes 200 €–500 €. Sie können Ihren Platz am Tisch bequem online vorab reservieren."
+                        },
+                        {
+                            "title": "Wie zahle ich im Casino Esplanade Hamburg?",
+                            "answer": "An unseren Bars akzeptieren wir sowohl Karte als auch Bargeld. Jetons für das klassische Spiel und den Poker werden ausschließlich gegen Bargeld ausgegeben. Im gesamten Haus stehen Geldautomaten zur Verfügung, sodass Sie jederzeit Bargeld abheben können. Eine Kartenzahlung am Spieltisch ist nicht möglich."
+                        },
+                        {
+                            "title": "Welche Jackpots gibt es aktuell im Casino Esplanade?",
+                            "answer": "Wir bieten mehrere progressive Jackpot-Netzwerke im Automatenspielbereich, darunter Clover Link Xtreme, Cash Connection V.4 (16.995 €), Xtension Link (15.784 €), Bell Link, Super Link und Black Impera Link. Die aktuellen Jackpotstände werden regelmäßig auf unserer Website aktualisiert. Minimum-Einsätze beginnen ab 0,50 €."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

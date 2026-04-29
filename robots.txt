@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-spielbank-esplanade.com/
+Sitemap: https://casino-spielbank-esplanade.com/sitemap.xml
